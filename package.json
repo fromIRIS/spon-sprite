@@ -1,0 +1,35 @@
+{
+  "name": "spon-sprite",
+  "version": "0.0.0",
+  "description": "spon插件--雪碧图制作",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fromIRIS/spon-sprite.git"
+  },
+  "keywords": [
+    "spon",
+    "spon-sprite"
+  ],
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-notify": "^2.2.0",
+    "imagemin-pngquant": "^4.0.0",
+    "npmlog": "0.0.6",
+    "path": "^0.12.7",
+    "request": "^2.72.0",
+    "spritesmith": "^2.0.1",
+    "log": "^1.4.0"
+  },
+  "author": "南洋",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fromIRIS/spon-sprite/issues"
+  },
+  "homepage": "https://github.com/fromIRIS/spon-sprite#readme"
+}
