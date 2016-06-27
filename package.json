@@ -1,6 +1,6 @@
 {
   "name": "spon-sprite",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "spon插件--雪碧图制作",
   "main": "index.js",
   "scripts": {
