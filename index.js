@@ -32,7 +32,7 @@ module.exports = function (spon) {
     /**
      * sprite
      */
-    spon
+    spon.cli
     .command('sprite [cmd]')
     .description('传统前端开发方案')
     .option("-m, --mobi [type]", "是否H5环境")
